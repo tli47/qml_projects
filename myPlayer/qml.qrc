@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TitleBar.qml</file>
+        <file>NavBar.qml</file>
+        <file>res/qq_music.png</file>
+        <file>res/qq-music.png</file>
+        <file>res/audition-icon.png</file>
+        <file>res/aution-icon-green.png</file>
+        <file>res/music-icon.png</file>
+        <file>res/music-icon-green.png</file>
+        <file>res/pc-icon.png</file>
+        <file>res/pc-icon-green.png</file>
+        <file>res/radar-icon.png</file>
+        <file>res/radar-icon-green.png</file>
+        <file>res/recent-icon.png</file>
+        <file>res/recent-icon-green.png</file>
+        <file>res/video-icon.png</file>
+        <file>res/video-icon-green.png</file>
+    </qresource>
+</RCC>
