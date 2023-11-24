@@ -3,8 +3,8 @@ import QtQuick.Window 2.2
 
 Window {
     visible: true
-    width: 640
-    height: 480
+    width: 760
+    height: 520
     title: qsTr("Hello World")
     flags: Qt.Window | Qt.FramelessWindowHint //去标题栏
     //flags: Qt.CustomizeWindowHint | Qt.WindowCloseButtonHint //去标题栏
@@ -12,6 +12,9 @@ Window {
     Row {
         anchors.fill: parent
         NavBar {
+
+        }
+        TitleBar {
 
         }
 
